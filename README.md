@@ -7,3 +7,4 @@
 - modal_progress_hud loading
 - flutter_inappbrowser 用于 web_view
 
+download: https://github.com/dchaofei/free_video/raw/master/video.apk
