@@ -82,7 +82,7 @@ class _VideoPlatPageState extends State<VideoPlatPage> {
       {"title": "腾讯视频", "format": "/cover/"},
       {"title": "优酷", "format": "/video/id_"},
       {"title": "爱奇艺", "format": "iqiyi.com/v_"},
-      {"title": "爱奇艺", "format": "iqiyi.com/a_"},
+//      {"title": "爱奇艺", "format": "iqiyi.com/a_"},
     ];
 
     for (var v in formats) {
